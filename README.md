@@ -1,1 +1,1 @@
-# fb-auto-posting-selenium
+# Facebook Auto-Posting Selenium Script
